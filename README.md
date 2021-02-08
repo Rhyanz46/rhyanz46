@@ -10,4 +10,5 @@ On my work i usually to use Flask/Fastapi :snake: for building a backend service
 
 All of my task, i managed it's using jira, because it's my favorite management tool. 
 
+I have experience on Frontend field also...
 For more detail, you can check on [my website](https://ariansaputra.com)
