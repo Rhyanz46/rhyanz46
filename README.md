@@ -1,4 +1,4 @@
-## Hello, Arian here :)
+## Hello there, you can call me Arian :)
 
 <a href="https://linkedin.com/in/rhyanz46" target="_blank"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30"></a> &nbsp; 
 <a href="https://stackoverflow.com/users/8197537/arian-saputra" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-512.png" height="30"></a> &nbsp; 
