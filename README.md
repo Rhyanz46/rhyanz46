@@ -6,8 +6,8 @@
 
 I love to learn software development especially on backend field
 
-On my work i usually to use Flask/fastapi for building a service, packing my service using docker, connect my whole service using nginx, deploy that manually using github webhook trigger, 
+On my work i usually to use Flask/fastapi for building a backend service, packing my service using docker, connect my whole service using nginx, deploy that manually using github webhook trigger, 
 
-Whole my task it's not gona keep on my mind,, i using jira for that.
+All of my task, i managed it's using jira, because it's my favorite management tool. 
 
 For more detail, you can check on [my website](https://ariansaputra.com)
