@@ -16,5 +16,3 @@ For more detail, you can check on [my website](https://ariansaputra.com)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rhyanz46.rhyanz46)
 
 ![Last Update](https://img.shields.io/github/last-commit/Rhyanz46/rhyanz46?style=plastic)
-
-![Top Commit Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhyanz46&theme=tokyonight)
