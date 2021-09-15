@@ -11,6 +11,6 @@ On my work I'am usually to use Flask/Fastapi :snake: and Golang for building a b
 All of my task, i managed it's using jira, because it's my favorite management tool. 
 
 I have experience on Frontend field also...
-For more detail, you can check on [my website](https://ariansaputra.com)
+https://ariansaputra.com
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Rhyanz46.rhyanz46)
