@@ -6,7 +6,7 @@
 
 I love to learn software development especially on backend field
 
-On my work I'am usually to use Flask/Fastapi :snake: and Golang for building a backend service, packing my service using docker, connect my whole service using rpc, deploy that manually using github webhook trigger, and i still learn how to be better than that. :dart:
+On my work I'am usually to use Flask/Fastapi :snake: and Golang for building a backend service, packing my service using docker, connect my whole service using rpc, deploy that manually using github webhook trigger or gitlab ci/cd pipeline, and i still learn how to be better than that. :dart:
 
 All of my task, i managed it's using jira, because it's my favorite management tool. 
 
